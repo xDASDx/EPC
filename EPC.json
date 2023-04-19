@@ -1,0 +1,9 @@
+{
+	"hpath": $EPC,
+	"load_package_once": true,
+	"env":[
+		{
+			"EPC": "C:/Users/dish/Desktop/EPC"
+		}
+	]
+}
